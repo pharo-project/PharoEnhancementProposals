@@ -13,7 +13,7 @@ Each PEP should contain the following information
 * Motivation/Rationale
 * Proposal
 * Implementation
-** link to issue
-** link to PR
+  * link to issue
+  * link to PR
 * Backwards compatibility issues
 * Open points
